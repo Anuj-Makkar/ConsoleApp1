@@ -10,6 +10,7 @@ namespace ConsoleApp1
             
             Console.WriteLine("Hello ");
             Console.WriteLine("Hello bro ");
+            Console.WriteLine("updated ");
 
             Console.ReadLine();
         }
